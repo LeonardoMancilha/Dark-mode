@@ -1,0 +1,52 @@
+section.container {
+    position: relative;
+}
+
+h1.subject {
+    position: absolute;
+    left: 45%;
+    top: 253px;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: darkgray;
+    content: "dark";
+}
+
+.mystyle {
+    background-color: black;
+}
+
+button {
+    position: absolute;
+    left: 46%;
+    top: 316px;
+    background-color: darkgray;
+    border: none;
+    transition: 2s;
+    max-width: 135px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    /* text-decoration: none; */
+    /* display: inline-block; */
+    font-size: 16px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    border-radius: 14px;
+}
+
+button:hover {
+    background-color: black;
+}
+
+@media (max-width: 500px) {
+    h1.subject {
+        position: absolute;
+        left: 30%;
+    }
+    button {
+        position: absolute;
+        left: 34%;
+        transition: auto;
+    }
+}
