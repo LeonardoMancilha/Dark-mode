@@ -49,4 +49,7 @@ button:hover {
         left: 34%;
         transition: auto;
     }
+    p.subject {
+        color: white;
+    }
 }
