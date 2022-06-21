@@ -1,2 +1,2 @@
 # Dark-mode
- A project of dark mode using HTML, CSS and JavaScript to practice JavaScript DOM
+ Hello, people! This is a project of dark mode with HTML, CSS and JavaScript. It was very important because I am learning JavaScript and in this project I applied some of my skills in JavaScript DOM.
