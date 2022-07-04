@@ -1,6 +1,6 @@
 <h1 align="center">Dark-mode</h1>
 
-<img src="https://user-images.githubusercontent.com/74615811/176756535-eced1558-41b2-4c96-adfa-fc8014495921.png" alt="Imagem do Dark mode>
+![darkmode](https://user-images.githubusercontent.com/74615811/177197783-4f4c9d41-0316-4f25-b3d3-f1f91174854f.png)
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/31ddbceac85190c41164841d133e4056da4d4ce57a1a3a8c7cbf40bff1cf71ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64726f70626f782f64726f70626f782d73646b2d6a617661">
