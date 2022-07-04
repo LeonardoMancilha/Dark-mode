@@ -1,6 +1,6 @@
 <h1 align="center">Dark-mode</h1>
 
-<img src="https://user-images.githubusercontent.com/74615811/176756535-eced1558-41b2-4c96-adfa-fc8014495921.png">
+<img src="https://user-images.githubusercontent.com/74615811/176756535-eced1558-41b2-4c96-adfa-fc8014495921.png" alt="Imagem do Dark mode>
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/31ddbceac85190c41164841d133e4056da4d4ce57a1a3a8c7cbf40bff1cf71ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64726f70626f782f64726f70626f782d73646b2d6a617661">
@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/74615811/176758094-61fe8eb9-3d5d-4f4c-
 ## 📁 Acesso ao projeto / Access the project
 
 Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/Dark-mode/find/main). <br>
-English: You can access the project files by clicking [aqui](https://github.com/LeonardoMancilha/Dark-mode/find/main).
+English: You can access the project files by clicking [here](https://github.com/LeonardoMancilha/Dark-mode/find/main).
 
 ## 📝 Licença / License
 
