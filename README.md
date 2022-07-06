@@ -15,7 +15,7 @@
 
 ## 💻 Descrição do projeto / Description of the project
 
-<h2>Portuguese</h2> Este é um projeto de modo escuro com HTML, CSS e JavaScript. Foi muito importante realizar esse projeto porque estou aprendendo JavaScript e nele apliquei alguns dos meus conhecimentos em JavaScript DOM adquiridos em curso da linguagem na Udemy. <br>
+<h2>Portuguese</h2> Este é um projeto de modo escuro com HTML, CSS e JavaScript. Foi muito importante realizar esse projeto porque estou aprendendo JavaScript e nele apliquei alguns dos meus conhecimentos em JavaScript DOM adquiridos em um curso da linguagem na Udemy. <br>
 <h2>English</h2> This is a dark mode project with HTML, CSS and JavaScript. It was very important to carry out this project because I am learning JavaScript and in it I applied some of my knowledge in JavaScript DOM acquired in the language course on Udemy.
 
 ---
