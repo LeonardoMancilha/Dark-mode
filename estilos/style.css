@@ -25,12 +25,9 @@ button {
     transition: 2s;
     max-width: 135px;
     width: 100%;
-    color: white;
+    color: #fff;
     text-align: center;
-    /* text-decoration: none; */
-    /* display: inline-block; */
     font-size: 16px;
-    /* margin: 4px 2px; */
     cursor: pointer;
     border-radius: 14px;
 }
@@ -50,6 +47,6 @@ button:hover {
         transition: auto;
     }
     p.subject {
-        color: white;
+        color: #fff;
     }
 }
