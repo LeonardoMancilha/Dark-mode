@@ -8,19 +8,19 @@ h1.subject {
     top: 253px;
     font-family: sans-serif;
     font-weight: 100;
-    color: darkgray;
+    color: #a9a9a9;
     content: "dark";
 }
 
 .mystyle {
-    background-color: black;
+    background-color: #000000;
 }
 
 button {
     position: absolute;
     left: 45,7%;
     top: 316px;
-    background-color: darkgray;
+    background-color: #a9a9a9;
     border: none;
     transition: 2s;
     max-width: 135px;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-    background-color: black;
+    background-color: #000000;
 }
 
 @media (max-width: 500px) {
